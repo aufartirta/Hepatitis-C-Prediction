@@ -1,6 +1,6 @@
 # Predicting Hepatitis-C Patients
 
-This project aims to develop a predictive model for the early detection of Hepatitis C progression.
+This project aims to develop a predictive model for the early detection of Hepatitis C progression. The dataset was obtained from [UCI Machine Learning Repository.](https://archive.ics.uci.edu/dataset/571/hcv+data)
 In the data preprocessing phase, the dataset will be cleaned to handle missing values and outliers. A simple Exploratory Data Analysis (EDA) will be conducted to understand variable distributions, and the data will be scaled for uniformity in model training.
 Four machine learning algorithms—Logistic Regression, Random Forest, Gradient Boosting, and Support Vector Machine—will be implemented and trained using attributes related to liver function and patient demographics.
 Model evaluation will focus on metrics such as Accuracy, Area Under the Receiver Operating Characteristic curve (AUC-ROC), and Area Under the Precision-Recall curve (AUC-PRC).
